@@ -69,9 +69,6 @@ This project helped me understand:
 
 **Harshita Gautam**
 
-MCA (Honours) in Data Science  
-Lovely Professional University
-
 ---
 
 *This project was developed for academic learning purposes and demonstrates the application of graph algorithms in a campus navigation scenario.*
